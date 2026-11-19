@@ -6,3 +6,5 @@
 `desk/carousels.json` lists every carousel: `slug`, `type`, `theme`, `caption`, `hashtags`, `check_facts` and `slides` (image files in `desk/carousels/`, in order).
 
 `desk/illustrated.json` lists the six illustrated posts: `week`, `file` (in `desk/illustrated/`) and `caption`.
+
+`desk/videos.json` lists the reels: `slug`, `title`, `status`, `theme`, `check_facts`, `caption`, `hashtags`, `file` (an .mp4 in `desk/videos/`) and `poster` (a still from it, same folder).
