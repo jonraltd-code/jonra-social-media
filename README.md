@@ -20,3 +20,5 @@ A video made from a carousel also has `carousel`, that carousel's slug. The Comm
     node tools/carousel-videos.mjs --all             every carousel
 
 It needs ffmpeg (it finds the copy inside CapCut, or set FFMPEG), Chrome for the opening and end cards, and sharp (the Command Centre's copy, or set SHARP). Nothing is uploaded or posted.
+
+Carousels and videos also carry `linkedin` and `linkedin_hashtags`: a separate LinkedIn caption, written for LinkedIn. Show that in the LinkedIn box instead of the Instagram caption.
