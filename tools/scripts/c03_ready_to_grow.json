@@ -1,0 +1,180 @@
+{
+  "about": "Video script for the carousel c03_ready_to_grow. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "read": [
+          "Is your business",
+          "ready to grow?"
+        ],
+        "at": 682,
+        "mode": "pan",
+        "green": [],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Map it before you grow"
+        ],
+        "at": 463,
+        "mode": "pan",
+        "green": [
+          "Map"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "In recruitment, before I went after more",
+          "work from a client, I mapped every",
+          "team, who used agency staff and what",
+          "they spent. Then I knew where the next",
+          "work was."
+        ],
+        "at": 686,
+        "mode": "fit",
+        "green": [
+          "mapped",
+          "agency staff",
+          "they spent",
+          "next work"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Tick these off honestly:"
+        ],
+        "at": 346,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.3
+      },
+      {
+        "read": [
+          "You know your numbers every",
+          "month"
+        ],
+        "at": 452,
+        "mode": "fit",
+        "green": [
+          "numbers",
+          "every month"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Your prices cover your time, not just",
+          "materials"
+        ],
+        "at": 583,
+        "mode": "fit",
+        "green": [
+          "prices",
+          "time"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Customers can find and contact you",
+          "easily"
+        ],
+        "at": 712,
+        "mode": "fit",
+        "green": [
+          "find",
+          "contact",
+          "easily"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Every enquiry gets followed up"
+        ],
+        "at": 843,
+        "mode": "fit",
+        "green": [
+          "followed up"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Someone could run a day without",
+          "you"
+        ],
+        "at": 922,
+        "mode": "fit",
+        "green": [
+          "without you"
+        ],
+        "hold": 0.5
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          500,
+          260,
+          1060,
+          900
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Fewer than 3",
+          "ticks? Fix the base",
+          "first."
+        ],
+        "at": 470,
+        "mode": "pan",
+        "green": [
+          "Fix the base"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Growth on shaky foundations",
+          "just makes the cracks bigger."
+        ],
+        "at": 683,
+        "mode": "fit",
+        "green": [
+          "shaky foundations",
+          "cracks bigger"
+        ],
+        "hold": 0.6
+      },
+      {
+        "look": [
+          70,
+          790,
+          720,
+          950
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

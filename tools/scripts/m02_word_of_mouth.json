@@ -1,0 +1,188 @@
+{
+  "about": "Video script for the carousel m02_word_of_mouth. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "read": [
+          "“Word of mouth",
+          "is enough.”"
+        ],
+        "at": 669,
+        "mode": "pan",
+        "green": [],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Referrals are earned."
+        ],
+        "at": 514,
+        "mode": "pan",
+        "green": [
+          "earned"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Referrals were never a problem on my",
+          "recruitment desk, because we went",
+          "above and beyond for the people we",
+          "placed. Give people something worth",
+          "talking about."
+        ],
+        "at": 646,
+        "mode": "fit",
+        "green": [
+          "never a problem",
+          "above and beyond",
+          "something worth",
+          "talking about"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "“Word of mouth is enough.”"
+        ],
+        "at": 532,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "It’s brilliant, until it",
+          "slows down."
+        ],
+        "at": 768,
+        "mode": "pan",
+        "green": [
+          "slows down"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "“If they’re recommended,",
+          "they’ll just call.”"
+        ],
+        "at": 543,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "They’ll Google you first."
+        ],
+        "at": 845,
+        "mode": "pan",
+        "green": [
+          "Google",
+          "first"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "“Social media doesn’t work for",
+          "my trade.”"
+        ],
+        "at": 455,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "It works when you",
+          "show the work,",
+          "consistently."
+        ],
+        "at": 774,
+        "mode": "pan",
+        "green": [
+          "show the work",
+          "consistently"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          480,
+          280,
+          1060,
+          900
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Make it easy to",
+          "find you, and easy",
+          "to trust you."
+        ],
+        "at": 440,
+        "mode": "fit",
+        "green": [
+          "find you",
+          "trust you"
+        ],
+        "hold": 0.7
+      },
+      {
+        "read": [
+          "Referrals open the door. Your",
+          "website and reviews get you",
+          "through it."
+        ],
+        "at": 659,
+        "mode": "fit",
+        "green": [
+          "open the door",
+          "website",
+          "reviews"
+        ],
+        "hold": 0.6
+      },
+      {
+        "look": [
+          70,
+          820,
+          720,
+          980
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

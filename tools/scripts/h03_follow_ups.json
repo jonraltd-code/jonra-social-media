@@ -1,0 +1,203 @@
+{
+  "about": "Video script for the carousel h03_follow_ups. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "read": [
+          "It took ten calls",
+          "before some",
+          "managers",
+          "took me",
+          "seriously."
+        ],
+        "at": 512,
+        "mode": "fit",
+        "green": [
+          "ten calls"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Call one is just call one."
+        ],
+        "at": 532,
+        "mode": "pan",
+        "green": [
+          "just call one"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "I knew it could take ten calls before",
+          "someone paid attention. So I used every",
+          "call to learn something: team size, who",
+          "used agency staff, what they spent."
+        ],
+        "at": 676,
+        "mode": "fit",
+        "green": [
+          "ten calls",
+          "learn something"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Day 2",
+          "Check they got it."
+        ],
+        "at": 487,
+        "mode": "pan",
+        "green": [
+          "got it"
+        ],
+        "hold": 0.5
+      },
+      {
+        "read": [
+          "A short message: “Just checking the",
+          "quote came through. Any questions?”",
+          "That’s it."
+        ],
+        "at": 749,
+        "mode": "fit",
+        "green": [
+          "short message",
+          "That’s it"
+        ],
+        "hold": 0.6
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Day 7",
+          "Answer the question",
+          "they haven’t asked."
+        ],
+        "at": 446,
+        "mode": "pan",
+        "green": [
+          "haven’t asked"
+        ],
+        "hold": 0.5
+      },
+      {
+        "read": [
+          "Timescales, how you’d handle a",
+          "problem, a photo of similar work. Give",
+          "them a reason to pick you."
+        ],
+        "at": 790,
+        "mode": "fit",
+        "green": [
+          "Timescales",
+          "photo of similar work",
+          "reason to pick you"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Day 14",
+          "Ask straight."
+        ],
+        "at": 487,
+        "mode": "pan",
+        "green": [
+          "straight"
+        ],
+        "hold": 0.5
+      },
+      {
+        "read": [
+          "“Is it a yes, a no, or not yet?” People",
+          "respect a straight question. A no is",
+          "useful too."
+        ],
+        "at": 751,
+        "mode": "fit",
+        "green": [
+          "yes",
+          "not yet",
+          "useful too"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          460,
+          280,
+          1060,
+          1000
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "A no today isn’t a",
+          "no next month."
+        ],
+        "at": 473,
+        "mode": "fit",
+        "green": [
+          "next month"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Keep a list. Check back. The",
+          "work you chase is the work you",
+          "win."
+        ],
+        "at": 625,
+        "mode": "fit",
+        "green": [
+          "Keep a list",
+          "Check back",
+          "work you chase",
+          "win"
+        ],
+        "hold": 0.7
+      },
+      {
+        "look": [
+          70,
+          780,
+          720,
+          950
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

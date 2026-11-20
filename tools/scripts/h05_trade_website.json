@@ -1,0 +1,241 @@
+{
+  "about": "Video script for the carousel h05_trade_website. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "look": [
+          0,
+          260,
+          1080,
+          820
+        ],
+        "hold": 1
+      },
+      {
+        "read": [
+          "Your website has one job:",
+          "get you the enquiry."
+        ],
+        "at": 901,
+        "mode": "pan",
+        "green": [
+          "one job"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Saturday start. First",
+          "draft by Tuesday."
+        ],
+        "at": 496,
+        "mode": "pan",
+        "green": [
+          "Saturday",
+          "Tuesday"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "A tape and jointing contractor came to",
+          "me through a referral. I started that",
+          "Saturday, and they had a first draft to",
+          "review by the Tuesday."
+        ],
+        "at": 718,
+        "mode": "fit",
+        "green": [
+          "referral",
+          "first draft"
+        ],
+        "hold": 0.6
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Say what you do and",
+          "where."
+        ],
+        "at": 564,
+        "mode": "pan",
+        "green": [
+          "what you do",
+          "where"
+        ],
+        "hold": 0.5
+      },
+      {
+        "read": [
+          "One line at the top. A visitor should",
+          "know in three seconds if you’re right",
+          "for them."
+        ],
+        "at": 790,
+        "mode": "fit",
+        "green": [
+          "One line",
+          "three seconds"
+        ],
+        "hold": 0.6
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Make it easy to ask for a",
+          "price."
+        ],
+        "at": 563,
+        "mode": "pan",
+        "green": [
+          "easy",
+          "price"
+        ],
+        "hold": 0.5
+      },
+      {
+        "read": [
+          "A simple form. Let contractors upload",
+          "plans and drawings. Ask only what",
+          "you need."
+        ],
+        "at": 790,
+        "mode": "fit",
+        "green": [
+          "simple form",
+          "plans and drawings"
+        ],
+        "hold": 0.6
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Click to call and",
+          "WhatsApp."
+        ],
+        "at": 560,
+        "mode": "pan",
+        "green": [
+          "Click to call",
+          "WhatsApp"
+        ],
+        "hold": 0.5
+      },
+      {
+        "read": [
+          "On every page, especially on phones.",
+          "Most people will message before they",
+          "fill in a form."
+        ],
+        "at": 792,
+        "mode": "fit",
+        "green": [
+          "every page",
+          "phones",
+          "message"
+        ],
+        "hold": 0.6
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Show proof."
+        ],
+        "at": 615,
+        "mode": "pan",
+        "green": [
+          "proof"
+        ],
+        "hold": 0.5
+      },
+      {
+        "read": [
+          "Photos of real work and your Google",
+          "reviews. Trust gets the enquiry over",
+          "the line."
+        ],
+        "at": 749,
+        "mode": "fit",
+        "green": [
+          "real work",
+          "reviews",
+          "Trust"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          540,
+          280,
+          1060,
+          960
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "If it doesn’t bring",
+          "enquiries, it’s a",
+          "brochure."
+        ],
+        "at": 462,
+        "mode": "fit",
+        "green": [
+          "enquiries",
+          "brochure"
+        ],
+        "hold": 0.7
+      },
+      {
+        "read": [
+          "Build it to get the call, not just to",
+          "look nice."
+        ],
+        "at": 683,
+        "mode": "fit",
+        "green": [
+          "get the call"
+        ],
+        "hold": 0.5
+      },
+      {
+        "look": [
+          70,
+          795,
+          720,
+          955
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

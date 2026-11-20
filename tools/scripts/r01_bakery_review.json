@@ -1,0 +1,215 @@
+{
+  "about": "Video script for the carousel r01_bakery_review. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "look": [
+          330,
+          450,
+          750,
+          610
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Her cakes",
+          "were never",
+          "the problem."
+        ],
+        "at": 676,
+        "mode": "pan",
+        "green": [
+          "problem"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "I knew people loved my cakes",
+          "and desserts, but if I’m honest, I",
+          "never really had the confidence",
+          "to put myself or my business",
+          "out there properly."
+        ],
+        "at": 523,
+        "mode": "fit",
+        "green": [
+          "loved my cakes",
+          "put myself",
+          "out there properly"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Richard understood that the",
+          "problem wasn’t my baking or",
+          "the quality of what I was",
+          "offering. I just needed a bit of",
+          "confidence, direction, and",
+          "encouragement."
+        ],
+        "at": 485,
+        "mode": "fit",
+        "green": [
+          "understood",
+          "wasn’t my baking",
+          "quality"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "What we put in place:"
+        ],
+        "at": 380,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.3
+      },
+      {
+        "read": [
+          "Registered her domain"
+        ],
+        "at": 487,
+        "mode": "fit",
+        "green": [
+          "domain"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Improved her social media"
+        ],
+        "at": 577,
+        "mode": "fit",
+        "green": [
+          "social media"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "A routine: photograph and post",
+          "every cake before it’s handed",
+          "over"
+        ],
+        "at": 667,
+        "mode": "fit",
+        "green": [
+          "routine",
+          "photograph and post",
+          "every cake"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Customer feedback and a",
+          "review card with every order"
+        ],
+        "at": 878,
+        "mode": "fit",
+        "green": [
+          "Customer feedback",
+          "review card",
+          "every order"
+        ],
+        "hold": 0.5
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "I’m posting more consistently,",
+          "taking more pride in promoting",
+          "my work, and I’ve started",
+          "getting more bookings as a",
+          "result."
+        ],
+        "at": 526,
+        "mode": "fit",
+        "green": [
+          "posting more consistently",
+          "more pride"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          520,
+          260,
+          1060,
+          960
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Sometimes you",
+          "just need the right",
+          "person in your",
+          "corner."
+        ],
+        "at": 425,
+        "mode": "fit",
+        "green": [
+          "right person",
+          "corner"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Got a good business that",
+          "deserves to be seen? Let’s talk."
+        ],
+        "at": 717,
+        "mode": "fit",
+        "green": [
+          "good business",
+          "seen",
+          "Let’s talk"
+        ],
+        "hold": 0.5
+      },
+      {
+        "look": [
+          70,
+          830,
+          720,
+          990
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

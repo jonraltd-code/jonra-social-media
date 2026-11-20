@@ -1,0 +1,195 @@
+{
+  "about": "Video script for the carousel c02_first_hire. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "look": [
+          200,
+          270,
+          880,
+          840
+        ],
+        "hold": 1
+      },
+      {
+        "read": [
+          "Before you hire",
+          "your first person."
+        ],
+        "at": 912,
+        "mode": "pan",
+        "green": [
+          "hire",
+          "first person"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Get these sorted first:"
+        ],
+        "at": 335,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.3
+      },
+      {
+        "read": [
+          "Know exactly what the job is"
+        ],
+        "at": 437,
+        "mode": "fit",
+        "green": [
+          "Know exactly"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Write it down as a job description"
+        ],
+        "at": 515,
+        "mode": "fit",
+        "green": [
+          "job description"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Work out the full cost, not just the",
+          "wage"
+        ],
+        "at": 595,
+        "mode": "fit",
+        "green": [
+          "full cost"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Check they have the right to work in",
+          "the UK"
+        ],
+        "at": 726,
+        "mode": "fit",
+        "green": [
+          "right to work"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Plan their first week before they start"
+        ],
+        "at": 856,
+        "mode": "fit",
+        "green": [
+          "first week"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Decide how you’ll measure a good"
+        ],
+        "at": 936,
+        "mode": "fit",
+        "green": [
+          "measure"
+        ],
+        "hold": 0.5
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "People stay where",
+          "they’re looked after."
+        ],
+        "at": 505,
+        "mode": "pan",
+        "green": [
+          "stay",
+          "looked after"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "When we placed nurses, we visited",
+          "them on placement with uniforms,",
+          "timesheets, lunch and fruit. Your first hire",
+          "is no different."
+        ],
+        "at": 716,
+        "mode": "fit",
+        "green": [
+          "placed nurses",
+          "visited",
+          "no different"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          520,
+          270,
+          1060,
+          960
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Hire on purpose,",
+          "not in a panic."
+        ],
+        "at": 496,
+        "mode": "fit",
+        "green": [
+          "on purpose"
+        ],
+        "hold": 0.7
+      },
+      {
+        "read": [
+          "The first hire sets the standard",
+          "for every one after it."
+        ],
+        "at": 641,
+        "mode": "fit",
+        "green": [
+          "sets the standard"
+        ],
+        "hold": 0.5
+      },
+      {
+        "look": [
+          70,
+          770,
+          720,
+          920
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

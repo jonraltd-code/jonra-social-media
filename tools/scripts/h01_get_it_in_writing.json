@@ -1,0 +1,217 @@
+{
+  "about": "Video script for the carousel h01_get_it_in_writing. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "read": [
+          "Nothing started",
+          "without terms",
+          "agreed."
+        ],
+        "at": 511,
+        "mode": "pan",
+        "green": [
+          "terms agreed"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Your jobs shouldn’t",
+          "either."
+        ],
+        "at": 822,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "What’s included. And",
+          "what isn’t."
+        ],
+        "at": 560,
+        "mode": "pan",
+        "green": [
+          "included",
+          "isn’t"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Spell out the work. Then spell out what",
+          "you’re not doing. Most arguments",
+          "start in the gap between the two."
+        ],
+        "at": 790,
+        "mode": "fit",
+        "green": [
+          "Spell out the work",
+          "not doing",
+          "arguments",
+          "gap"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "What it costs, and when",
+          "it’s paid."
+        ],
+        "at": 563,
+        "mode": "pan",
+        "green": [
+          "costs",
+          "paid"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "The price, the deposit, the stage",
+          "payments and the final invoice. Dates,",
+          "not “when it’s done”."
+        ],
+        "at": 790,
+        "mode": "fit",
+        "green": [
+          "deposit",
+          "stage payments",
+          "final invoice",
+          "Dates"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "What happens if it",
+          "changes."
+        ],
+        "at": 594,
+        "mode": "pan",
+        "green": [
+          "changes"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Extra work gets priced and agreed",
+          "before it starts. In writing. Every time."
+        ],
+        "at": 824,
+        "mode": "fit",
+        "green": [
+          "Extra work",
+          "priced and agreed",
+          "In writing",
+          "Every time"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Every placement started",
+          "on paper."
+        ],
+        "at": 464,
+        "mode": "pan",
+        "green": [
+          "on paper"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "The rate, the hours and the terms were",
+          "agreed before anyone started.",
+          "Temp-to-perm deals said exactly what",
+          "happened at six months. No surprises,",
+          "for anyone."
+        ],
+        "at": 684,
+        "mode": "fit",
+        "green": [
+          "agreed before anyone started",
+          "six months",
+          "No surprises"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          500,
+          260,
+          1060,
+          960
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "A one-page scope",
+          "beats a long",
+          "argument."
+        ],
+        "at": 448,
+        "mode": "fit",
+        "green": [
+          "one-page scope"
+        ],
+        "hold": 0.7
+      },
+      {
+        "read": [
+          "Both sides sign it before the",
+          "work starts, not after it goes",
+          "wrong."
+        ],
+        "at": 659,
+        "mode": "fit",
+        "green": [
+          "Both sides sign",
+          "before the work starts"
+        ],
+        "hold": 0.5
+      },
+      {
+        "look": [
+          70,
+          820,
+          720,
+          980
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

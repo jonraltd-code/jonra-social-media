@@ -1,0 +1,181 @@
+{
+  "about": "Video script for the carousel c04_weekly_check. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "look": [
+          250,
+          280,
+          850,
+          860
+        ],
+        "hold": 1
+      },
+      {
+        "read": [
+          "Your 30-minute",
+          "weekly business check."
+        ],
+        "at": 903,
+        "mode": "pan",
+        "green": [],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Give people a format."
+        ],
+        "at": 536,
+        "mode": "pan",
+        "green": [
+          "format"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "When I ran a team of about ten, I didn’t",
+          "tell them what to do. I showed them a",
+          "format, and they mirrored it. A weekly",
+          "check works the same way."
+        ],
+        "at": 676,
+        "mode": "fit",
+        "green": [
+          "showed them",
+          "mirrored it",
+          "weekly check"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Same time, every week:"
+        ],
+        "at": 432,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.3
+      },
+      {
+        "read": [
+          "Money in and money out"
+        ],
+        "at": 534,
+        "mode": "fit",
+        "green": [
+          "Money in",
+          "money out"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Unpaid invoices chased"
+        ],
+        "at": 622,
+        "mode": "fit",
+        "green": [
+          "Unpaid invoices",
+          "chased"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Every enquiry followed up"
+        ],
+        "at": 712,
+        "mode": "fit",
+        "green": [
+          "enquiry",
+          "followed up"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Next week’s diary planned"
+        ],
+        "at": 802,
+        "mode": "fit",
+        "green": [
+          "diary planned"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "One thing improved"
+        ],
+        "at": 892,
+        "mode": "fit",
+        "green": [
+          "improved"
+        ],
+        "hold": 0.5
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          520,
+          260,
+          1060,
+          900
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Small checks. Big",
+          "difference."
+        ],
+        "at": 496,
+        "mode": "fit",
+        "green": [
+          "difference"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Thirty minutes a week keeps",
+          "the business in your hands."
+        ],
+        "at": 641,
+        "mode": "fit",
+        "green": [
+          "Thirty minutes",
+          "in your hands"
+        ],
+        "hold": 0.6
+      },
+      {
+        "look": [
+          70,
+          760,
+          720,
+          920
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

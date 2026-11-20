@@ -1,0 +1,184 @@
+{
+  "about": "Video script for the carousel m03_busy. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "read": [
+          "Busy doesn’t mean",
+          "successful."
+        ],
+        "at": 682,
+        "mode": "pan",
+        "green": [],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Count the repeats."
+        ],
+        "at": 536,
+        "mode": "pan",
+        "green": [
+          "repeats"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "I’m all about efficiency. Look at your",
+          "week and count the jobs you do over",
+          "and over. Each one is a process waiting",
+          "to be written down."
+        ],
+        "at": 676,
+        "mode": "fit",
+        "green": [
+          "efficiency",
+          "over and over",
+          "process",
+          "written down"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "“I’m flat out, so I must be doing",
+          "well.”"
+        ],
+        "at": 498,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Busy can mean",
+          "underpriced."
+        ],
+        "at": 817,
+        "mode": "pan",
+        "green": [
+          "underpriced"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "“I’ll sort the systems when it",
+          "calms down.”"
+        ],
+        "at": 498,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "It calms down when",
+          "you sort the systems."
+        ],
+        "at": 807,
+        "mode": "pan",
+        "green": [
+          "sort the systems"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "“Nobody can do it like me.”"
+        ],
+        "at": 490,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Nobody can do it like",
+          "you until you show",
+          "them how."
+        ],
+        "at": 726,
+        "mode": "pan",
+        "green": [
+          "them how"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          540,
+          260,
+          1060,
+          900
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Work on the",
+          "business, not just",
+          "in it."
+        ],
+        "at": 464,
+        "mode": "pan",
+        "green": [
+          "on the",
+          "business"
+        ],
+        "hold": 0.7
+      },
+      {
+        "read": [
+          "An hour a week on systems",
+          "buys back hours every day."
+        ],
+        "at": 686,
+        "mode": "fit",
+        "green": [
+          "An hour a week",
+          "buys back hours"
+        ],
+        "hold": 0.6
+      },
+      {
+        "look": [
+          70,
+          790,
+          720,
+          950
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

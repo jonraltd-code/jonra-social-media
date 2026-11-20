@@ -1,0 +1,147 @@
+{
+  "about": "Video script for the carousel c01_quote_checklist. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "read": [
+          "5 things every",
+          "quote needs."
+        ],
+        "at": 682,
+        "mode": "pan",
+        "green": [
+          "5 things",
+          "quote"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Before you send it, check it",
+          "has:"
+        ],
+        "at": 341,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.3
+      },
+      {
+        "read": [
+          "An itemised price, not one",
+          "number"
+        ],
+        "at": 519,
+        "mode": "fit",
+        "green": [
+          "itemised price"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "What’s not included"
+        ],
+        "at": 662,
+        "mode": "fit",
+        "green": [
+          "not included"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Start date and how long it takes"
+        ],
+        "at": 748,
+        "mode": "fit",
+        "green": [
+          "Start date",
+          "how long"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Payment terms: deposit, stages,",
+          "final"
+        ],
+        "at": 836,
+        "mode": "fit",
+        "green": [
+          "Payment terms"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "An expiry date"
+        ],
+        "at": 979,
+        "mode": "fit",
+        "green": [
+          "expiry date"
+        ],
+        "hold": 0.5
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          540,
+          280,
+          1060,
+          960
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "I’d rather send a",
+          "clear quote than a",
+          "cheap one."
+        ],
+        "at": 440,
+        "mode": "fit",
+        "green": [
+          "clear quote"
+        ],
+        "hold": 0.7
+      },
+      {
+        "read": [
+          "Clear quotes get fewer",
+          "arguments and more yeses.",
+          "Save this for your next one."
+        ],
+        "at": 662,
+        "mode": "fit",
+        "green": [
+          "fewer",
+          "more yeses",
+          "Save this"
+        ],
+        "hold": 0.5
+      },
+      {
+        "look": [
+          70,
+          820,
+          720,
+          975
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "about": "Video script for the carousel c01_labour_ward. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "look": [
+          300,
+          300,
+          780,
+          760
+        ],
+        "hold": 1
+      },
+      {
+        "read": [
+          "My job interview was",
+          "on the way to",
+          "the labour ward."
+        ],
+        "at": 903,
+        "mode": "fit",
+        "green": [
+          "job interview"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "2013. Fresh out of uni."
+        ],
+        "at": 568,
+        "mode": "pan",
+        "green": [
+          "2013"
+        ],
+        "hold": 0.5
+      },
+      {
+        "read": [
+          "My degree took five years, not three.",
+          "My first job was double shifts in",
+          "collections. A baby on the way, saving",
+          "for a house."
+        ],
+        "at": 716,
+        "mode": "fit",
+        "green": [
+          "five years",
+          "double shifts",
+          "baby on the way",
+          "saving"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Then a recruitment",
+          "company called."
+        ],
+        "at": 598,
+        "mode": "pan",
+        "green": [
+          "recruitment"
+        ],
+        "hold": 0.5
+      },
+      {
+        "read": [
+          "The phone interview happened on the",
+          "way to the hospital. I didn’t tell them."
+        ],
+        "at": 824,
+        "mode": "fit",
+        "green": [
+          "phone interview",
+          "hospital",
+          "didn’t tell them"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Three days after she",
+          "was born, I walked in."
+        ],
+        "at": 597,
+        "mode": "pan",
+        "green": [
+          "Three days",
+          "walked in"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "I told the panel. They couldn’t believe",
+          "it. I got the job."
+        ],
+        "at": 824,
+        "mode": "fit",
+        "green": [
+          "told the panel",
+          "couldn’t believe",
+          "got the job"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          480,
+          260,
+          1060,
+          960
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Character shows",
+          "when it’s",
+          "inconvenient."
+        ],
+        "at": 448,
+        "mode": "fit",
+        "green": [
+          "Character",
+          "inconvenient"
+        ],
+        "hold": 0.7
+      },
+      {
+        "read": [
+          "Be willing to do what others",
+          "aren’t willing to do. That’s how I",
+          "work with every client at JONRA."
+        ],
+        "at": 659,
+        "mode": "fit",
+        "green": [
+          "willing",
+          "aren’t willing",
+          "every client"
+        ],
+        "hold": 0.5
+      },
+      {
+        "look": [
+          70,
+          820,
+          720,
+          980
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

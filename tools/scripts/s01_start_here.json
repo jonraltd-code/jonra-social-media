@@ -1,0 +1,339 @@
+{
+  "about": "Video script for the carousel s01_start_here. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "look": [
+          360,
+          300,
+          720,
+          760
+        ],
+        "hold": 1
+      },
+      {
+        "read": [
+          "New here?",
+          "Here's what",
+          "JONRA does."
+        ],
+        "at": 910,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "I help business owners",
+          "get organised, get seen",
+          "and grow."
+        ],
+        "at": 489,
+        "mode": "pan",
+        "green": [
+          "help",
+          "organised",
+          "seen",
+          "grow"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Practical, hands-on support from",
+          "someone with a background in",
+          "recruitment, business development",
+          "and running teams. No jargon. No fluff."
+        ],
+        "at": 798,
+        "mode": "fit",
+        "green": [
+          "hands-on",
+          "recruitment",
+          "business development",
+          "running teams"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "What I help with:"
+        ],
+        "at": 344,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.3
+      },
+      {
+        "read": [
+          "Operations and systems:",
+          "processes and contracts that keep",
+          "jobs moving without you chasing"
+        ],
+        "at": 452,
+        "mode": "fit",
+        "green": [
+          "Operations and systems"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Business development: winning",
+          "work and following it up"
+        ],
+        "at": 644,
+        "mode": "fit",
+        "green": [
+          "Business development"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Websites that bring in enquiries,",
+          "not just look nice"
+        ],
+        "at": 780,
+        "mode": "fit",
+        "green": [
+          "Websites",
+          "enquiries"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Recruitment: hiring the right",
+          "people, first time"
+        ],
+        "at": 918,
+        "mode": "fit",
+        "green": [
+          "Recruitment",
+          "first time"
+        ],
+        "hold": 0.5
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Who it's for:"
+        ],
+        "at": 380,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.3
+      },
+      {
+        "read": [
+          "Trades, construction and",
+          "property businesses"
+        ],
+        "at": 489,
+        "mode": "fit",
+        "green": [
+          "Trades",
+          "construction",
+          "property"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Care and healthcare providers"
+        ],
+        "at": 637,
+        "mode": "fit",
+        "green": [
+          "Care",
+          "healthcare"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Owner-led businesses that are",
+          "busy but stuck"
+        ],
+        "at": 727,
+        "mode": "fit",
+        "green": [
+          "Owner-led",
+          "busy but stuck"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Growing businesses that want",
+          "to scale properly"
+        ],
+        "at": 877,
+        "mode": "fit",
+        "green": [
+          "Growing",
+          "scale properly"
+        ],
+        "hold": 0.5
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "How it starts: the",
+          "Diagnostic."
+        ],
+        "at": 497,
+        "mode": "pan",
+        "green": [
+          "Diagnostic"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "A recorded call, then a written report:",
+          "where you are now, the gaps, quick",
+          "wins and a 90-day plan. If you carry",
+          "on with a package within 14 days, the",
+          "fee comes off it."
+        ],
+        "at": 723,
+        "mode": "fit",
+        "green": [
+          "recorded call",
+          "written report",
+          "90-day plan",
+          "fee comes off it"
+        ],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "Recent work:"
+        ],
+        "at": 372,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.3
+      },
+      {
+        "read": [
+          "A website live within four days",
+          "for a tape and jointing",
+          "contractor"
+        ],
+        "at": 470,
+        "mode": "fit",
+        "green": [
+          "website",
+          "four days"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "A home baker now posting",
+          "consistently and taking more",
+          "bookings"
+        ],
+        "at": 682,
+        "mode": "fit",
+        "green": [
+          "posting",
+          "consistently",
+          "more",
+          "bookings"
+        ],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Two 5-star Google reviews, and",
+          "counting"
+        ],
+        "at": 894,
+        "mode": "fit",
+        "green": [
+          "5-star Google reviews"
+        ],
+        "hold": 0.6
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          560,
+          230,
+          1080,
+          1000
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Problems. Plan.",
+          "Progress."
+        ],
+        "at": 473,
+        "mode": "fit",
+        "green": [
+          "Progress"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "Tell me what's stuck in your",
+          "business. The first conversation",
+          "is free."
+        ],
+        "at": 625,
+        "mode": "fit",
+        "green": [
+          "first conversation",
+          "free"
+        ],
+        "hold": 0.5
+      },
+      {
+        "look": [
+          70,
+          780,
+          620,
+          950
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}

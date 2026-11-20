@@ -1,0 +1,197 @@
+{
+  "about": "Video script for the carousel m01_motivation. One list of beats per slide. look: frame a box on the slide (x0, y0, x1, y1 on the 1080x1350 slide). read: the lines as they appear, starting at the line nearest 'at' (its y); 'pan' moves along each line like reading, 'fit' frames the whole block; 'green' words turn green as the reader reaches them. whole: pull back to the whole slide.",
+  "slides": [
+    [
+      {
+        "look": [
+          200,
+          260,
+          880,
+          860
+        ],
+        "hold": 1
+      },
+      {
+        "read": [
+          "Motivation gets you started.",
+          "It doesn’t keep you going."
+        ],
+        "at": 903,
+        "mode": "pan",
+        "green": [],
+        "hold": 0.8
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "He started years behind."
+        ],
+        "at": 532,
+        "mode": "pan",
+        "green": [
+          "years behind"
+        ],
+        "hold": 0.6
+      },
+      {
+        "read": [
+          "My son took up rugby years after",
+          "everyone else. Not the biggest, not the",
+          "fastest, but always up for the tackle. A",
+          "few years in, he was thriving."
+        ],
+        "at": 678,
+        "mode": "fit",
+        "green": [
+          "years after",
+          "always up for the tackle",
+          "thriving"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "“I’ll start when I feel ready.”"
+        ],
+        "at": 532,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "You feel ready after",
+          "you start."
+        ],
+        "at": 771,
+        "mode": "pan",
+        "green": [
+          "after you start"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "“Motivated people are",
+          "disciplined.”"
+        ],
+        "at": 458,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Disciplined people",
+          "don’t wait for",
+          "motivation."
+        ],
+        "at": 760,
+        "mode": "pan",
+        "green": [
+          "Disciplined",
+          "don’t wait"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "read": [
+          "“I’ll be consistent when things",
+          "calm down.”"
+        ],
+        "at": 455,
+        "mode": "fit",
+        "green": [],
+        "hold": 0.4
+      },
+      {
+        "read": [
+          "Things calm down",
+          "when you’re",
+          "consistent."
+        ],
+        "at": 763,
+        "mode": "pan",
+        "green": [
+          "calm down",
+          "consistent"
+        ],
+        "hold": 0.7
+      },
+      {
+        "whole": 0.5
+      }
+    ],
+    [
+      {
+        "look": [
+          540,
+          280,
+          1060,
+          900
+        ],
+        "hold": 0.8
+      },
+      {
+        "read": [
+          "Motivation’s",
+          "temporary.",
+          "Consistency is the",
+          "key."
+        ],
+        "at": 406,
+        "mode": "fit",
+        "green": [
+          "Consistency",
+          "key"
+        ],
+        "hold": 0.7
+      },
+      {
+        "read": [
+          "Show up on the days you don’t",
+          "feel like it. Those are the days",
+          "that count."
+        ],
+        "at": 692,
+        "mode": "fit",
+        "green": [
+          "Show up",
+          "count"
+        ],
+        "hold": 0.6
+      },
+      {
+        "look": [
+          70,
+          850,
+          720,
+          1010
+        ],
+        "hold": 1.2
+      },
+      {
+        "whole": 0.6
+      }
+    ]
+  ]
+}
